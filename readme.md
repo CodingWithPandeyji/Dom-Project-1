@@ -6,7 +6,7 @@ This project demonstrates how to manipulate the UI elements using JavaScript.
 
 To view the hosted version of the project:
 
-1. Go to [Hosted Project](https://example.com).
+1. Go to [Hosted Project](https://codingwithpandeyji.github.io/Dom-Project-1/).
 2. Open the link in your web browser.
 
 ## Project Description
